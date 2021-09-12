@@ -1,0 +1,45 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+
+  \item \spxentry{add()}\spxextra{camera.camera.Sample のメソッド}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{bar}\spxextra{camera.camera.Sample の属性}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{camera}
+    \subitem \spxentry{モジュール}, \hyperpage{1}
+  \item \spxentry{camera.camera}
+    \subitem \spxentry{モジュール}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{foo}\spxextra{camera.camera.Sample の属性}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{my\_sum()}\spxextra{preprocessing モジュール}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{preprocessing}
+    \subitem \spxentry{モジュール}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{Sample}\spxextra{camera.camera のクラス}, \hyperpage{1}
+
+  \indexspace
+
+  \item \spxentry{モジュール}
+    \subitem \spxentry{camera}, \hyperpage{1}
+    \subitem \spxentry{camera.camera}, \hyperpage{1}
+    \subitem \spxentry{preprocessing}, \hyperpage{1}
+
+\end{sphinxtheindex}
